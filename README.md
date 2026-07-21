@@ -68,4 +68,4 @@ WebChat is a open source project with its ongoing development made possible enti
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/molvqingtai/WebChat/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
