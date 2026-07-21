@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/e7ac9b8e-1b6c-43fb-8469-7a0a2c09d450
 
 - **[wxt](https://wxt.dev/)**：这是我用过构建浏览器扩展最好的框架，没有之一。
 
-- ~~**[trystero](https://github.com/dmotz/trystero)**~~：实现去中心化通信的核心依赖，可连接到 IPFS、torrent、Nostr 等去中心化网络。
+- ~~**[trystero](https://github.com/dmotz/trystero)**：实现去中心化通信的核心依赖，可连接到 IPFS、torrent、Nostr 等去中心化网络。~~
 - **[Artico](https://github.com/matallui/artico)**：一套灵活的库，帮助你创建自己的基于 WebRTC 的解决方案。
 
 - **[ugly-avatar](https://github.com/txstc55/ugly-avatar)**：用它来创建令人惊艳的随机头像。
