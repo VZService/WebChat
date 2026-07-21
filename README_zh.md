@@ -68,4 +68,4 @@ WebChat 是一个开源项目，其持续发展完全依靠这些出色支持者
 
 ### 许可证
 
-本项目基于 MIT 许可证开源 - 详情请参阅 [LICENSE](https://github.com/molvqingtai/WebChat/blob/master/LICENSE) 文件。
+本项目基于 MIT 许可证开源 - 详情请参阅 [LICENSE](./LICENSE) 文件。
